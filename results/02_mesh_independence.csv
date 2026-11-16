@@ -1,0 +1,4 @@
+case,mesh_scale,cells,K,friction_factor_inlet,recirculation_length_mm
+sudden_coarse,0.6,13248,0.2693,0.01786,240
+sudden_medium,0.8,23552,0.2692,0.01821,239
+sudden,1.0,36800,0.2691,0.01845,239

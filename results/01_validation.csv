@@ -1,0 +1,5 @@
+quantity,CFD,reference,reference_source,difference_%
+"friction factor, inlet duct (Re_Dh = 100 000)",0.01845,0.01953,Dean (1978),-5.5
+"friction factor, outlet duct (Re_Dh = 100 000)",0.01865,0.01953,Dean (1978),-4.5
+sudden-expansion loss K,0.2691,0.25,"Borda-Carnot, uniform profiles",7.6
+sudden-expansion loss K,0.2691,0.2725,Borda-Carnot with turbulent profile corrections,-1.2

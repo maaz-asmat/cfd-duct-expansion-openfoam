@@ -1,0 +1,6 @@
+variant,total_angle_deg,diffuser_length_mm,K,K_vs_sudden_%,pressure_recovery_Cp,ideal_Cp,loss_Pa_at_1m_per_s_water,recirculation_length_mm,inlet_p_change_last500_iter_%_of_dyn_pressure
+sudden,180,0,0.269,0.0,0.518,0.75,134,239,0.015
+diffuser_60deg,60,43,0.278,3.3,0.51,0.75,139,184,0.0
+diffuser_30deg,30,93,0.193,-28.1,0.594,0.75,97,124,0.0
+diffuser_20deg,20,142,0.11,-59.0,0.677,0.75,55,75,0.002
+diffuser_10deg,10,286,0.066,-75.5,0.721,0.75,33,0,0.0
